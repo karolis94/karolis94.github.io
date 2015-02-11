@@ -7,28 +7,38 @@ img {
 
 p {
 	text-align: center;
-	font-family: Garamond, serif;
+	font-family: Garamond;
 	font-size: 18px;
 }
 
-div {
-	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
-	height: 50px;
-	width: 120px;
-	margin: auto;
-	text-align: center;
-}
 
 a {
 	text-decoration: none;
-	color: #3D59AB;
-	font-family: Verdana, sans-serif;
+	color: #33CCFF;
+	font-family: Verdana;
 }
 
 span {
 	font-weight: bold;
 	font-size: 18px;
-	color: #ffffff;
+	color: #0000CC;
+}
+
+#bar {
+position: bottom;
+top: -10px;
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+text-align:center;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+	border: 2px solid #000000;
+	font-family: Verdana;
+	color: #FFCC00;
+	border-radius: 5px 5px;
+	background-color: #3366CC;
+	text-align: center;
 }
