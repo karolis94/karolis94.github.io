@@ -50,3 +50,10 @@ body {
 	color: #01CEFE;
 	font-family: Verdana;
 }
+
+#frontimage {
+	display: block;
+	height: 300px;
+	width: 500px;
+	margin: auto;
+}
