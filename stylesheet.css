@@ -14,7 +14,7 @@ p {
 
 a {
 	text-decoration: none;
-	color: #33CCFF;
+	color: #FB3882;
 	font-family: Verdana;
 }
 
@@ -36,8 +36,6 @@ text-align:center;
 	display: inline;
 	padding: 5px;
 	border: 2px solid #000000;
-	font-family: Verdana;
-	color: #FFCC00;
 	border-radius: 5px 5px;
 	text-align: center;
 	background-color: #3366CC;
@@ -45,4 +43,10 @@ text-align:center;
 
 body {
 	background-color: #FFFFCC;
+}
+
+#skype {
+	text-decoration: none;
+	color: #01CEFE;
+	font-family: Verdana;
 }
