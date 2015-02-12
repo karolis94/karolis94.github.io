@@ -57,3 +57,8 @@ body {
 	width: 800px;
 	margin: auto;
 }
+
+#personal {
+	height: 120px;
+	width: 120px;
+}
