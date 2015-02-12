@@ -32,13 +32,17 @@ border-top-right-radius: 15px;
 text-align:center;
 }
 
-li {
+.bar {
 	display: inline;
 	padding: 5px;
 	border: 2px solid #000000;
 	font-family: Verdana;
 	color: #FFCC00;
 	border-radius: 5px 5px;
-	background-color: #3366CC;
 	text-align: center;
+	background-color: #3366CC;
+}
+
+body {
+	background-color: #FFFFCC;
 }
