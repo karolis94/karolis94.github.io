@@ -34,7 +34,7 @@ text-align:center;
 
 .bar {
 	display: inline;
-	padding: 5px;
+	padding: 10px;
 	border: 2px solid #000000;
 	border-radius: 5px 5px;
 	text-align: center;
@@ -63,7 +63,7 @@ body {
 	width: 120px;
 }
 
-#cv{
+#cv {
 		position: center;
 		width: 800px;
 		margin: auto;
